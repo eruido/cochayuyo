@@ -15,13 +15,14 @@ https://github.com/stowball/jQuery-rwdImageMaps
 
 https://blog.travismclarke.com/project/imagemap/
 
-Nos quedamos con la libreria 
+Finalmente, nos quedamos con la libreria imagemap
+
+<!--<script src="https://unpkg.com/image-map/dist/image-map.jquery.js"></script>-->
 
 Y usamos esta herramienta para asignar las zonas de clicks
 
 https://www.image-map.net/
 
-
-Finalmente hicimos una página muy simple pero que al resizear el browser, las coordenadas de los poligonos se escalan y el mapa sigue funcionando.
+Finalmente hicimos una página HTMLS muy simple pero que al "resizear" el browser, las coordenadas de los poligonos se escalan y el mapa sigue funcionando.
 
 Es solo una prueba de concepto, pero si le pones diseño, se puede ver increible.
